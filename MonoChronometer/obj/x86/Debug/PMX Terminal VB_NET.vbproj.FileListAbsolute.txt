@@ -1,0 +1,99 @@
+C:\My Dropbox\Performax Terminal\PMX Terminal VBNET\PMX Terminal VBNET\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\My Dropbox\Performax Terminal\PMX Terminal VBNET\PMX Terminal VBNET\obj\x86\Debug\WindowsApplication2.FrmSelect.resources
+C:\My Dropbox\Performax Terminal\PMX Terminal VBNET\PMX Terminal VBNET\obj\x86\Debug\WindowsApplication2.Resources.resources
+C:\My Dropbox\Performax Terminal\PMX Terminal VBNET\PMX Terminal VBNET\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\My Dropbox\Performax Terminal\PMX Terminal VBNET\PMX Terminal VBNET\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\My Dropbox\Performax Terminal\PMX Terminal VBNET\PMX Terminal VBNET\bin\Debug\WindowsApplication2.exe
+C:\My Dropbox\Performax Terminal\PMX Terminal VBNET\PMX Terminal VBNET\bin\Debug\WindowsApplication2.pdb
+C:\My Dropbox\Performax Terminal\PMX Terminal VBNET\PMX Terminal VBNET\bin\Debug\WindowsApplication2.xml
+C:\My Dropbox\Performax Terminal\PMX Terminal VBNET\PMX Terminal VBNET\obj\x86\Debug\WindowsApplication2.exe
+C:\My Dropbox\Performax Terminal\PMX Terminal VBNET\PMX Terminal VBNET\obj\x86\Debug\WindowsApplication2.xml
+C:\My Dropbox\Performax Terminal\PMX Terminal VBNET\PMX Terminal VBNET\obj\x86\Debug\WindowsApplication2.pdb
+C:\My Dropbox\Performax Terminal\PMX Terminal VBNET\PMX Terminal VBNET\obj\x86\Debug\WindowsApplication2.frmMain.resources
+C:\Users\Edward\Desktop\usb terminal vbnet\PMX Terminal VBNET\bin\Debug\PMX_Terminal_VB_NET.exe
+C:\Users\Edward\Desktop\usb terminal vbnet\PMX Terminal VBNET\bin\Debug\PMX_Terminal_VB_NET.pdb
+C:\Users\Edward\Desktop\usb terminal vbnet\PMX Terminal VBNET\bin\Debug\PMX_Terminal_VB_NET.xml
+C:\Users\Edward\Desktop\usb terminal vbnet\PMX Terminal VBNET\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Edward\Desktop\usb terminal vbnet\PMX Terminal VBNET\obj\x86\Debug\PMX_Terminal_VB_NET.frmMain.resources
+C:\Users\Edward\Desktop\usb terminal vbnet\PMX Terminal VBNET\obj\x86\Debug\PMX_Terminal_VB_NET.FrmSelect.resources
+C:\Users\Edward\Desktop\usb terminal vbnet\PMX Terminal VBNET\obj\x86\Debug\PMX_Terminal_VB_NET.Resources.resources
+C:\Users\Edward\Desktop\usb terminal vbnet\PMX Terminal VBNET\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Edward\Desktop\usb terminal vbnet\PMX Terminal VBNET\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Edward\Desktop\usb terminal vbnet\PMX Terminal VBNET\obj\x86\Debug\PMX_Terminal_VB_NET.exe
+C:\Users\Edward\Desktop\usb terminal vbnet\PMX Terminal VBNET\obj\x86\Debug\PMX_Terminal_VB_NET.xml
+C:\Users\Edward\Desktop\usb terminal vbnet\PMX Terminal VBNET\obj\x86\Debug\PMX_Terminal_VB_NET.pdb
+C:\Users\W6ONT\Downloads\ARCUS\obj\x86\Debug\PMX_Terminal_VB_NET.exe
+C:\Users\W6ONT\Downloads\ARCUS\obj\x86\Debug\PMX_Terminal_VB_NET.xml
+C:\Users\W6ONT\Downloads\ARCUS\obj\x86\Debug\PMX_Terminal_VB_NET.pdb
+C:\Users\W6ONT\Documents\Visual Studio 2010\Projects\ARCUS\obj\x86\Debug\PMX_Terminal_VB_NET.exe
+C:\Users\W6ONT\Documents\Visual Studio 2010\Projects\ARCUS\obj\x86\Debug\PMX_Terminal_VB_NET.xml
+C:\Users\W6ONT\Documents\Visual Studio 2010\Projects\ARCUS\obj\x86\Debug\PMX_Terminal_VB_NET.pdb
+C:\Users\W6ONT\Documents\Visual Studio 2010\Projects\MonoChronometer\obj\x86\Debug\PMX_Terminal_VB_NET.exe
+C:\Users\W6ONT\Documents\Visual Studio 2010\Projects\MonoChronometer\obj\x86\Debug\PMX_Terminal_VB_NET.xml
+C:\Users\W6ONT\Documents\Visual Studio 2010\Projects\MonoChronometer\obj\x86\Debug\PMX_Terminal_VB_NET.pdb
+C:\Users\W6ONT\Documents\Visual Studio 2010\Projects\MonoChronometer\bin\Debug\PMX_Terminal_VB_NET.exe
+C:\Users\W6ONT\Documents\Visual Studio 2010\Projects\MonoChronometer\bin\Debug\PMX_Terminal_VB_NET.pdb
+C:\Users\W6ONT\Documents\Visual Studio 2010\Projects\MonoChronometer\bin\Debug\PMX_Terminal_VB_NET.xml
+C:\Users\W6ONT\Documents\Visual Studio 2010\Projects\MonoChronometer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\W6ONT\Documents\Visual Studio 2010\Projects\MonoChronometer\obj\x86\Debug\PMX_Terminal_VB_NET.frmMain.resources
+C:\Users\W6ONT\Documents\Visual Studio 2010\Projects\MonoChronometer\obj\x86\Debug\PMX_Terminal_VB_NET.FrmSelect.resources
+C:\Users\W6ONT\Documents\Visual Studio 2010\Projects\MonoChronometer\obj\x86\Debug\PMX_Terminal_VB_NET.Resources.resources
+C:\Users\W6ONT\Documents\Visual Studio 2010\Projects\MonoChronometer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\W6ONT\Documents\Visual Studio 2010\Projects\MonoChronometer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\W6ONT\Documents\Visual Studio 2010\Projects\MonoChronometer\obj\x86\Debug\Interop.Office.dll
+C:\Users\W6ONT\Documents\Visual Studio 2010\Projects\MonoChronometer\obj\x86\Debug\PMX Terminal VB_NET.vbproj.ResolveComReference.cache
+D:\VB Projects\VB 2010\MonoChronometer\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\VB Projects\VB 2010\MonoChronometer\obj\x86\Debug\PMX Terminal VB_NET.vbproj.ResolveComReference.cache
+D:\VB Projects\VB 2010\MonoChronometer\obj\x86\Debug\PMX_Terminal_VB_NET.exe
+D:\VB Projects\VB 2010\MonoChronometer\obj\x86\Debug\PMX_Terminal_VB_NET.xml
+D:\VB Projects\VB 2010\MonoChronometer\obj\x86\Debug\PMX_Terminal_VB_NET.pdb
+D:\VB Projects\VB 2010\MonoChronometer\obj\x86\Debug\PMX_Terminal_VB_NET.frmMain.resources
+D:\VB Projects\VB 2010\MonoChronometer\obj\x86\Debug\PMX_Terminal_VB_NET.FrmSelect.resources
+D:\VB Projects\VB 2010\MonoChronometer\obj\x86\Debug\PMX_Terminal_VB_NET.Resources.resources
+D:\VB Projects\VB 2010\MonoChronometer\obj\x86\Debug\PMX Terminal VB_NET.vbproj.GenerateResource.Cache
+D:\VB Projects\VB 2010\MonoChronometer\bin\Debug\PMX_Terminal_VB_NET.exe
+D:\VB Projects\VB 2010\MonoChronometer\bin\Debug\PMX_Terminal_VB_NET.pdb
+D:\VB Projects\VB 2010\MonoChronometer\bin\Debug\PMX_Terminal_VB_NET.xml
+E:\VB Projects\VB 2010\MonoChronometer\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+E:\VB Projects\VB 2010\MonoChronometer\obj\x86\Debug\PMX Terminal VB_NET.vbproj.ResolveComReference.cache
+E:\VB Projects\VB 2010\MonoChronometer\obj\x86\Debug\PMX_Terminal_VB_NET.exe
+E:\VB Projects\VB 2010\MonoChronometer\obj\x86\Debug\PMX_Terminal_VB_NET.xml
+E:\VB Projects\VB 2010\MonoChronometer\obj\x86\Debug\PMX_Terminal_VB_NET.pdb
+E:\VB Projects\VB 2010\MonoChronometer\bin\Debug\PMX_Terminal_VB_NET.exe
+E:\VB Projects\VB 2010\MonoChronometer\bin\Debug\PMX_Terminal_VB_NET.pdb
+E:\VB Projects\VB 2010\MonoChronometer\bin\Debug\PMX_Terminal_VB_NET.xml
+E:\VB Projects\VB 2010\MonoChronometer\obj\x86\Debug\PMX_Terminal_VB_NET.frmMain.resources
+E:\VB Projects\VB 2010\MonoChronometer\obj\x86\Debug\PMX_Terminal_VB_NET.FrmSelect.resources
+E:\VB Projects\VB 2010\MonoChronometer\obj\x86\Debug\PMX_Terminal_VB_NET.Resources.resources
+E:\VB Projects\VB 2010\MonoChronometer\obj\x86\Debug\PMX Terminal VB_NET.vbproj.GenerateResource.Cache
+G:\VB Projects\VB 2010\MonoChronometer\obj\x86\Debug\Interop.Office.dll
+G:\VB Projects\VB 2010\MonoChronometer\obj\x86\Debug\PMX Terminal VB_NET.vbproj.ResolveComReference.cache
+G:\VB Projects\VB 2010\MonoChronometer\obj\x86\Debug\PMX_Terminal_VB_NET.exe
+G:\VB Projects\VB 2010\MonoChronometer\obj\x86\Debug\PMX_Terminal_VB_NET.xml
+G:\VB Projects\VB 2010\MonoChronometer\obj\x86\Debug\PMX_Terminal_VB_NET.pdb
+G:\VB Projects\VB 2010\MonoChronometer\bin\Debug\PMX_Terminal_VB_NET.exe
+G:\VB Projects\VB 2010\MonoChronometer\bin\Debug\PMX_Terminal_VB_NET.pdb
+G:\VB Projects\VB 2010\MonoChronometer\bin\Debug\PMX_Terminal_VB_NET.xml
+G:\VB Projects\VB 2010\MonoChronometer\obj\x86\Debug\PMX_Terminal_VB_NET.frmMain.resources
+G:\VB Projects\VB 2010\MonoChronometer\obj\x86\Debug\PMX_Terminal_VB_NET.FrmSelect.resources
+G:\VB Projects\VB 2010\MonoChronometer\obj\x86\Debug\PMX_Terminal_VB_NET.Resources.resources
+G:\VB Projects\VB 2010\MonoChronometer\obj\x86\Debug\PMX Terminal VB_NET.vbproj.GenerateResource.Cache
+F:\VB Projects\VB 2010\MonoChronometer\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+F:\VB Projects\VB 2010\MonoChronometer\obj\x86\Debug\PMX Terminal VB_NET.vbproj.ResolveComReference.cache
+F:\VB Projects\VB 2010\MonoChronometer\obj\x86\Debug\PMX_Terminal_VB_NET.exe
+F:\VB Projects\VB 2010\MonoChronometer\obj\x86\Debug\PMX_Terminal_VB_NET.xml
+F:\VB Projects\VB 2010\MonoChronometer\obj\x86\Debug\PMX_Terminal_VB_NET.pdb
+D:\MonoChronometer\bin\Debug\PMX_Terminal_VB_NET.exe
+D:\MonoChronometer\bin\Debug\PMX_Terminal_VB_NET.pdb
+D:\MonoChronometer\bin\Debug\PMX_Terminal_VB_NET.xml
+D:\MonoChronometer\obj\x86\Debug\PMX Terminal VB_NET.vbprojResolveAssemblyReference.cache
+D:\MonoChronometer\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\MonoChronometer\obj\x86\Debug\PMX Terminal VB_NET.vbproj.ResolveComReference.cache
+D:\MonoChronometer\obj\x86\Debug\PMX_Terminal_VB_NET.frmMain.resources
+D:\MonoChronometer\obj\x86\Debug\PMX_Terminal_VB_NET.FrmSelect.resources
+D:\MonoChronometer\obj\x86\Debug\PMX_Terminal_VB_NET.Resources.resources
+D:\MonoChronometer\obj\x86\Debug\PMX Terminal VB_NET.vbproj.GenerateResource.Cache
+D:\MonoChronometer\obj\x86\Debug\PMX Terminal VB_NET.vbproj.CoreCompileInputs.cache
+D:\MonoChronometer\obj\x86\Debug\PMX_Terminal_VB_NET.exe
+D:\MonoChronometer\obj\x86\Debug\PMX_Terminal_VB_NET.xml
+D:\MonoChronometer\obj\x86\Debug\PMX_Terminal_VB_NET.pdb

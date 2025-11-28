@@ -1,0 +1,12 @@
+C:\My Dropbox\Performax Terminal\PMX Terminal VBNET\PMX Terminal VBNET\bin\Release\PMX_Terminal_VB_NET.exe
+C:\My Dropbox\Performax Terminal\PMX Terminal VBNET\PMX Terminal VBNET\bin\Release\PMX_Terminal_VB_NET.pdb
+C:\My Dropbox\Performax Terminal\PMX Terminal VBNET\PMX Terminal VBNET\bin\Release\PMX_Terminal_VB_NET.xml
+C:\My Dropbox\Performax Terminal\PMX Terminal VBNET\PMX Terminal VBNET\obj\x86\Release\ResolveAssemblyReference.cache
+C:\My Dropbox\Performax Terminal\PMX Terminal VBNET\PMX Terminal VBNET\obj\x86\Release\PMX_Terminal_VB_NET.frmMain.resources
+C:\My Dropbox\Performax Terminal\PMX Terminal VBNET\PMX Terminal VBNET\obj\x86\Release\PMX_Terminal_VB_NET.FrmSelect.resources
+C:\My Dropbox\Performax Terminal\PMX Terminal VBNET\PMX Terminal VBNET\obj\x86\Release\PMX_Terminal_VB_NET.Resources.resources
+C:\My Dropbox\Performax Terminal\PMX Terminal VBNET\PMX Terminal VBNET\obj\x86\Release\GenerateResource.read.1.tlog
+C:\My Dropbox\Performax Terminal\PMX Terminal VBNET\PMX Terminal VBNET\obj\x86\Release\GenerateResource.write.1.tlog
+C:\My Dropbox\Performax Terminal\PMX Terminal VBNET\PMX Terminal VBNET\obj\x86\Release\PMX_Terminal_VB_NET.exe
+C:\My Dropbox\Performax Terminal\PMX Terminal VBNET\PMX Terminal VBNET\obj\x86\Release\PMX_Terminal_VB_NET.xml
+C:\My Dropbox\Performax Terminal\PMX Terminal VBNET\PMX Terminal VBNET\obj\x86\Release\PMX_Terminal_VB_NET.pdb
